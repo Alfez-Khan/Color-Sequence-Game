@@ -16,4 +16,4 @@ A simple memory game built with HTML, CSS, and JavaScript. Repeat the color sequ
 
 **Credits**
   Made for fun and practice. Inspired by the classic Simon game.
-  created by Alfez Khan
+  created by Alfez Khan (July 2025)
